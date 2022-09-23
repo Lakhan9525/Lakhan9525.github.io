@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35ebef35.css",
+    "main.js": "/static/js/main.dd753288.js",
+    "static/js/787.ac3da9cc.chunk.js": "/static/js/787.ac3da9cc.chunk.js",
+    "static/media/lakhan Resume1.pdf": "/static/media/lakhan Resume1.25ace990fdb89c3c4ac0.pdf",
+    "static/media/sam.png": "/static/media/sam.064ae04e11275f561e04.png",
+    "index.html": "/index.html",
+    "main.35ebef35.css.map": "/static/css/main.35ebef35.css.map",
+    "main.dd753288.js.map": "/static/js/main.dd753288.js.map",
+    "787.ac3da9cc.chunk.js.map": "/static/js/787.ac3da9cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35ebef35.css",
+    "static/js/main.dd753288.js"
+  ]
+}
