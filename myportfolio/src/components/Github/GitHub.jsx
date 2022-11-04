@@ -24,7 +24,7 @@ const GitHub = () => {
 
   return (
     <div>
-      <h2 className="section__title different">DAYS I CODE</h2>
+      <h2 className="section__title_different">DAYS I CODE</h2>
       <div className='github_Calender'>
 
         <GitHubCalendar style={{margin:"auto"}}

@@ -6,6 +6,7 @@ import Row from 'react-bootstrap/esm/Row'
 import Col from 'react-bootstrap/esm/Col'
 import Card from 'react-bootstrap/esm/Card'
 import GitHub from './Github/GitHub'
+import Statistic from './Statistic/Statistic'
 
 
 
@@ -238,7 +239,11 @@ const Experience = ({ darkMode }) => {
                 </Container>
             </Fade>
             <br></br>
+            <br/>
             <GitHub/>
+            <br/>
+            <br/>
+            <Statistic/>
     
           
         </div>
