@@ -40,6 +40,8 @@ const Experience = ({ darkMode }) => {
                                                             <tr>Real time chat using websocket.</tr>
                                                             <tr>Added emoji for post and also like functionality.</tr>
                                                             <tr>Various filter functionalities for explore page.</tr>
+                                                            <br/>
+                                                            <tr>Tech_Stack:HTML,CSS,javascript,React.js</tr>
                                                         
                                             
                                                             </td>
@@ -102,6 +104,10 @@ const Experience = ({ darkMode }) => {
                                                             <tr>Categorization of products with carousel effect</tr>
                                                             <tr>Various filter functionalities.</tr>
                                                             <tr>Product page with Pincode verification.</tr>
+                            
+                                                            <br/>
+                                                            
+                                                            <tr>Tech_Stack:HTML,ChakraUI,javascript,React.js</tr>
                                             
                                                             </td>
 
@@ -178,6 +184,8 @@ const Experience = ({ darkMode }) => {
                                                             <tr>Product page with sorting.</tr>
                                                             <tr>Add to the cart page and checkout page.</tr>
                                                             <tr>contact-us and review page..</tr>
+                                                            <br/>
+                                                            <tr>Tech_Stack:HTML,mongodb,ChakraUI,JS,React.js</tr>
                             
                                                             </td>
                                                         </Card.Text>
