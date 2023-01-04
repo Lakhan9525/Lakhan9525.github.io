@@ -210,7 +210,7 @@ strong,
 .flip-card {
     background-color: transparent;
     width: 90%;
-    height: 360px;
+    height: 380px;
     perspective: 1000px;
     color: var(--text-color);
 

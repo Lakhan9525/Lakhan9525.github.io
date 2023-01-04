@@ -26,7 +26,7 @@ const Experience = ({ darkMode }) => {
                             <Col lg={4} sm={12}>
                                 <Card align="center" className="exp" data-theme={darkMode ? "dark" : "light"}>
                                     <br></br>
-                                    <center style={{height: '336px'}}>
+                                    <center style={{height: '355px'}}>
                                         <div className="flip-card" class="flip-card">
                                             <div class="flip-card-inner">
                                                 <div className="flip-card-front">
@@ -185,7 +185,7 @@ const Experience = ({ darkMode }) => {
                                                             <tr>Add to the cart page and checkout page.</tr>
                                                             <tr>contact-us and review page..</tr>
                                                             <br/>
-                                                            <tr>Tech_Stack:HTML,mongodb,ChakraUI,JS,React.js</tr>
+                                                             <tr>Tech_Stack:HTML,mongodb,ChakraUI,React.js</tr> 
                             
                                                             </td>
                                                         </Card.Text>
