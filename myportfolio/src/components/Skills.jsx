@@ -19,7 +19,7 @@ const Skills = ({darkMode}) => {
                 <Row>
                 <Col lg={4} xs={8}>
                     <h1 className="display-3 skill-h">I can work <p className="with">with</p> </h1>
-                    <img src="https://namtphan.github.io/static/media/laptop.9e0aebbb.svg" alt="skills" className="skills-img img-fluid animated"/>
+                    <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="skills" className="skills-img img-fluid animated"/>
                 </Col>
                 <Col lg={2} xs={4}>
                     <br></br>

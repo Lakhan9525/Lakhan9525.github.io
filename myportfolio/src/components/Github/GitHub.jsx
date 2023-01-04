@@ -7,6 +7,8 @@ import "./GitHub.css";
 const GitHub = () => {
   const selectLastHalfYear = contributions => {
     const currentYear = new Date().getFullYear();
+    //const currentYear = new Date().getMonth;
+
     const currentMonth = new Date().getMonth();
     const shownMonths = 8;
 
@@ -15,7 +17,7 @@ const GitHub = () => {
       const monthOfDay = date.getMonth();
 
       return (
-        date.getFullYear() === currentYear &&
+        date.getFullYear() === 2022 &&
         monthOfDay > currentMonth - shownMonths &&
         monthOfDay <= currentMonth
       );
