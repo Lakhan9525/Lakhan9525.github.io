@@ -218,10 +218,10 @@ const Experience = ({ darkMode }) => {
                                     </center>
                                     <br></br>
                                     <div>
-                                        <a href="https://gorgeous-sopapillas-340399.netlify.app/index.html" target="_blank" rel="noreferrer noopener">
+                                        <a href="https://gleeful-crepe-2585d7.netlify.app/" target="_blank" rel="noreferrer noopener">
                                             <Button variant={darkMode ? "outline-light" : "outline-dark"} className="sbtn">View Project</Button>
                                         </a>
-                                        <a href="https://github.com/satyamkumarjha2002/The_OutNet_Clone" target="_blank" rel="noreferrer noopener">
+                                        <a href="https://github.com/Lakhan9525/OutNet_clone" target="_blank" rel="noreferrer noopener">
                                             <Button variant={darkMode ? "outline-light" : "outline-dark"} className="sbtn">View Github Repo</Button>
                                         </a>
                                     </div>
