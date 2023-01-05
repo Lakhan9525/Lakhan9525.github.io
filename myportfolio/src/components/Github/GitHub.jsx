@@ -6,22 +6,22 @@ import "./GitHub.css";
 
 const GitHub = () => {
   const selectLastHalfYear = contributions => {
-    const currentYear = new Date().getFullYear();
+   // const currentYear = new Date().getFullYear();
     //const currentYear = new Date().getMonth;
 
-    const currentMonth = new Date().getMonth();
-    const shownMonths = 8;
+    //const currentMonth = new Date().getMonth();
+   // const shownMonths = 8;
 
-    return contributions.filter(day => {
-      const date = new Date(day.date);
-      const monthOfDay = date.getMonth();
+  //   return contributions.filter(day => {
+  //     const date = new Date(day.date);
+  //     const monthOfDay = date.getMonth();
 
-      return (
-        date.getFullYear() === 2022 &&
-        monthOfDay > currentMonth - shownMonths &&
-        monthOfDay <= currentMonth
-      );
-    });
+  //     return (
+  //       date.getFullYear() === 2022 &&
+  //       monthOfDay > currentMonth - shownMonths &&
+  //       monthOfDay <= currentMonth
+  //     );
+  //   });
   };
 
   return (
@@ -32,7 +32,7 @@ const GitHub = () => {
         <GitHubCalendar style={{margin:"auto"}}
           username='Lakhan9525'
           
-          transformData={selectLastHalfYear}
+          //transformData={selectLastHalfYear}
           hideColorLegend
         />
       </div>
