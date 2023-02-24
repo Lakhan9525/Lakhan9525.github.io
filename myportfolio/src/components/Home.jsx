@@ -16,7 +16,7 @@ const Home = ({ darkMode }) => {
                             <br />
                         
                             <div className="img">
-                            <img  src="https://user-images.githubusercontent.com/102020617/190065345-29011bd9-32cd-44c1-a90d-318437a97c0a.jpg" alt=""/>
+                            <img  src="https://user-images.githubusercontent.com/102020617/221154828-9f4f63a4-36e1-4ffa-b4fb-bc72c087b3b6.png" alt=""/>
                             </div>
                         </Col>
                     </Container>

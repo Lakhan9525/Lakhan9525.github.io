@@ -114,7 +114,7 @@ const About = ({ darkMode }) => {
                   <br></br>
 
                   <div>
-                    <p>Lakhan yadav  <br /> Patana, Bihar.<br/> <strong style={{fontWeight:"600"}}>7488797722</strong>
+                    <p>Lakhan yadav  <br /> Patna, Bihar.<br/> <strong style={{fontWeight:"600"}}>7488797722</strong>
                       <br />
                       <strong style={{fontWeight:"600"}}>lakhanraj987@gmail.com</strong>
                     </p>
@@ -142,7 +142,7 @@ const About = ({ darkMode }) => {
                     </Button>
                   </a>
 
-                  <a className="social-icons" href="https://www.instagram.com/lakhanraj987_ydv/" target="_blank" rel="noreferrer noopener">
+                  <a className="social-icons" href="https://www.instagram.com/lakhan__yadv/" target="_blank" rel="noreferrer noopener">
                     <Button variant={darkMode ? "outline-light" : "outline-dark"}>
                       <FontAwesomeIcon className="dark" size="lg" icon={faInstagramSquare} />
                     </Button>

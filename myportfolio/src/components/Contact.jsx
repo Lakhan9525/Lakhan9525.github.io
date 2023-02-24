@@ -7,6 +7,8 @@ import Button from 'react-bootstrap/esm/Button'
 import Container from 'react-bootstrap/esm/Container'
 import Row from 'react-bootstrap/esm/Row'
 import Col from 'react-bootstrap/Col'
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import {faGithub,faInstagramSquare,faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
 
 
 
@@ -58,6 +60,30 @@ const Contact = ({ darkMode }) => {
                                 <strong style={{fontWeight:"600"}}>lakhanraj987@gmail.com</strong>
                             </p>
                         </div>
+                        <br></br>
+                        <br></br>
+                        {/* contact icon */}
+
+                        <a className="social-icons" href="https://www.linkedin.com/in/lakhan-kumar-yadav-379672180/" target="_blank" rel="noreferrer noopener">
+                    <Button variant={darkMode ? "outline-light" : "outline-dark"}>
+                      <FontAwesomeIcon className="dark" size="lg" icon={faLinkedinIn} />
+                    </Button>
+                  </a>
+                  <a className="social-icons" href="https://github.com/Lakhan9525" target="_blank" rel="noreferrer noopener">
+                    <Button variant={darkMode ? "outline-light" : "outline-dark"}>
+                      <FontAwesomeIcon className="dark" size="lg" icon={faGithub} />
+                    </Button>
+                  </a>
+
+                  <a className="social-icons" href="https://www.instagram.com/lakhan__yadv/" target="_blank" rel="noreferrer noopener">
+                    <Button variant={darkMode ? "outline-light" : "outline-dark"}>
+                      <FontAwesomeIcon className="dark" size="lg" icon={faInstagramSquare} />
+                    </Button>
+                  </a>
+
+
+
+
 
 
 
