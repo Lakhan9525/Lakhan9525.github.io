@@ -3,8 +3,8 @@ import { Fade } from "react-awesome-reveal";
 import './styles.css';
 // import connectLight from '../media/connect-light.png';
 // import connectDark from '../media/connect-dark.png';
-import resume from '../media/lakhan Resume1.pdf'
-import transcript from '../media/lakhan Resume1.pdf'
+import resume from '../media/Lakhan_yadav_Instructor_Resume_x5.pdf'
+import transcript from '../media/Lakhan_yadav_Instructor_Resume_x5.pdf'
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import { faGithub, faInstagramSquare, faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
 import { faFile } from '@fortawesome/free-solid-svg-icons';
@@ -114,7 +114,7 @@ const About = ({ darkMode }) => {
                   <br></br>
 
                   <div>
-                    <p>Lakhan yadav  <br /> Patna, Bihar.<br/> <strong style={{fontWeight:"600"}}>7488797722</strong>
+                    <p>Lakhan yadav  <br /> Patna, Bihar.<br/> <strong style={{fontWeight:"600"}}>6200152774</strong>
                       <br />
                       <strong style={{fontWeight:"600"}}>lakhanraj987@gmail.com</strong>
                     </p>

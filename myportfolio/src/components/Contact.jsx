@@ -55,7 +55,7 @@ const Contact = ({ darkMode }) => {
 
                         <h2 className="lead">Contact Details</h2>
                         <div className="contact-text">
-                            <p>Lakhan Yadav  <br />  Patna, Bihar. <br /> <strong style={{fontWeight:"600"}}>748877722</strong>
+                            <p>Lakhan Yadav  <br />  Patna, Bihar. <br /> <strong style={{fontWeight:"600"}}>6200152774</strong>
                                 <br />
                                 <strong style={{fontWeight:"600"}}>lakhanraj987@gmail.com</strong>
                             </p>
