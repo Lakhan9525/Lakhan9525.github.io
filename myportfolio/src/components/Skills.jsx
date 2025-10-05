@@ -19,7 +19,8 @@ const Skills = ({darkMode}) => {
                 <Row>
                 <Col lg={4} xs={8}>
                     <h1 className="display-3 skill-h">I can work <p className="with">with</p> </h1>
-                    <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="skills" className="skills-img img-fluid animated"/>
+                    {/* <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="skills" className="skills-img img-fluid animated"/> */}
+                     <img src="https://sagarmude.netlify.app/static/media/avatar.711110cc.svg" alt="skills" className="skills-img img-fluid animated"/>
                 </Col>
                 <Col lg={2} xs={4}>
                     <br></br>
@@ -73,19 +74,29 @@ const Skills = ({darkMode}) => {
                     <Card className="skill-nbcard">
                         <Card.Body>
                             <Card.Title>Front End</Card.Title>
-                            <Card.Text>HTML, CSS, JavaScript, ReactJs, Redux, ChakraUI.</Card.Text>
+                            <Card.Text>HTML, CSS, JavaScript, React.Js,ReactNative, Redux, ChakraUI,TailwindCss.</Card.Text>
                         </Card.Body>
                     </Card>
                     <Card className="skill-nbcard">
                         <Card.Body >
                             <Card.Title>Backend</Card.Title>
-                            <Card.Text>ExpressJS, NodeJS, MongoDB.</Card.Text>
+                            <Card.Text>ExpressJS,Java,Python, NodeJS, Mongoose, Socket.IO, Lodash, 
+                                Puppeteer,Multer,
+                              Dotenv.        
+                              </Card.Text>
                         </Card.Body>
                     </Card>
+                      <Card className="skill-nbcard">
+                        <Card.Body >
+                            <Card.Title>DBMS</Card.Title>
+                            <Card.Text>MongoDB,MySQL,Microsoft SQL Server,PostgreSQL,GraphQL</Card.Text>
+                        </Card.Body>
+                    </Card>
+
                     <Card className="skill-nbcard">
                         <Card.Body >
                             <Card.Title>Tools</Card.Title>
-                            <Card.Text>Git & Github, PostMan, MongoDB Atlas.</Card.Text>
+                            <Card.Text>Git & Github, PostMan, MongoDB Atlas, AWS</Card.Text>
                         </Card.Body>
                     </Card>
                 </Col>
